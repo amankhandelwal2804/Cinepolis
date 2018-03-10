@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Cinepolis</string>
+    <string name="title_home">Login</string>
+    <string name="title_dashboard">Register</string>
+    <string name="title_notifications">Admin</string>
+    <string name="title_activity_profile">Profile</string>
+    <string name="ngrok">http://5b2cadbc.ngrok.io</string>
+</resources>
